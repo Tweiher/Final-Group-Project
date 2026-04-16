@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dog Categories</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <header class="header">
+        Dog Categories
+    </header>
+
+    <nav class="navigation">
+        <h3>Navigation</h3>
+        <div class="nav-links">
+            <a href="index.html">Home</a>
+            <a href="DogList.html">Dog List (A-Z)</a>
+            <a href="#">Gallery</a>
+            <a href="MoreInfo.html">More Information</a>
+        </div>
+    </nav>
+
+    <main class="main-content">
+
+        <section class="card">
+            <h2 class="card-title">Browse Dogs by Category</h2>
+            <input type="text" id="searchInput" placeholder="Search dog breeds...">
+            <div id="categoryContainer"></div>
+        </section>
+
+    </main>
+
+</div>
+
+
+<div id="modal" class="hidden">
+    <div id="modalContent">
+        <span id="closeBtn">&times;</span>
+        <div id="modalBody"></div>
+    </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
