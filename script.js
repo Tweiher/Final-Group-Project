@@ -94,7 +94,7 @@ const dogImages = {
 "Dalmatian" : "Images/Dalmatian.jpg",
 "Dandie Dinmont Terrier" : "Images/Dandie Dinmont Terrier.jpg",
 "Danish-Swedish Farmdog" : "Images/Danish Swedish Farmdog.jpg",
-"Deutscher Wachtelhund" : "Images/Deutscher Wachtelhund.jpg",
+"Deutscher Wachtelhund" : "Images/deutscher wachtelhund.jpg",
 "Doberman Pinscher" : "Images/Doberman Pinscher.jpg",
 "Dogo Argentino" : "Images/Dogo Argentino.jpg",
 "Dogue de Bordeaux" : "Images/Dogue de Bordeaux.jpg",
