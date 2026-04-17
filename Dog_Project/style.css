@@ -249,3 +249,15 @@ button[type="submit"]:hover{
     float: right;
     cursor: pointer;
 }
+
+.gallery {
+    display:grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 20px;
+}
+
+.dog-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 15px;
+}

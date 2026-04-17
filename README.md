@@ -6,4 +6,14 @@ The second page is the Dog List page in which we orginized the dogs in alphabeti
 The third page is the Gallery. This is to showcase just amazing pictures that we found of dogs. This allows dog lovers to scroll a gallery of cute dogs without being worried about the extra info.
 The last page is the More information page. We added this to allow users to sign up for a newsletter and to give additional information about local shelters in the tulsa area in case people are activly looking for dogs to add to thier family. We also have a link that allows users to add their email information.
 
+Members
+Ty Weiher- Homepage+ Doglist page + api intergration
+
+Wynoami Glasser- Helped with Doglist page + MoreInfo page + CSS
+
+Rylee Hanson- Gallery page + Photos + Brainstorming the idea + helped with css design
+
+Repo Link = https://github.com/Tweiher/Final-Group-Project.git
+
+
 
